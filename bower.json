@@ -5,7 +5,7 @@
     "Nathan Bleigh <nathan.bleigh@gmail.com>"
   ],
   "description": "Drag to Pan DOM Element Descendants",
-  "main": ["dist/angular-panhandler.js","dist/angular-panhandler.min.js"],
+  "main": ["dist/angular-panhandler.js"],
   "keywords": [
     "angular",
     "pan",
